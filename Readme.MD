@@ -1,7 +1,5 @@
 <div align="center">
 
-![SQL Logo](https://img.shields.io/badge/🗄️-SQL%20FUNDAMENTALS-000?style=for-the-badge&logoColor=white)
-
 # 📚 SQL Fundamentals Course – IIBS Bangalore
 
 ![MySQL](https://img.shields.io/badge/MySQL-5.7%2B-blue?logo=mysql&logoColor=white&style=flat-square)
